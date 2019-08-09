@@ -1,2 +1,2 @@
-# SERNAC
-Bases de prueba de SERNAC para aprendizaje
+# Consumo
+Bases de prueba de consumo para aprendizaje
